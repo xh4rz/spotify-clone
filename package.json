@@ -17,6 +17,7 @@
     "i": "^0.3.7",
     "next": "latest",
     "npm": "^10.1.0",
+    "query-string": "^8.1.0",
     "react": "latest",
     "react-dom": "latest",
     "react-hook-form": "^7.47.0",
